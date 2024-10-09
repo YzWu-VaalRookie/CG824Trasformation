@@ -1,0 +1,4 @@
+--Input BMP Image File Name
+image-8bit.bmp
+--Output BMP Image File Name
+image-8bitTo8bitG.bmp
